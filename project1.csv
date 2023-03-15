@@ -1,2 +1,2 @@
 title,title_min,points
-var = ‘ ’\nКакой тип данных хранится в переменной var?\na) int\nб) set\nв) list\nг) str\n,г),1
+var = "" \nКакой тип данных хранится в переменной var?\na) int\nб) set\nв) list\nг) str\n,г),1
